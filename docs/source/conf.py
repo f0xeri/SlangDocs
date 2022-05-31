@@ -17,7 +17,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Slangc'
+project = 'Slang'
 copyright = '2022, f0xeri'
 author = 'f0xeri'
 
