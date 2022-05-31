@@ -21,10 +21,17 @@ Slangc - компилятор языка программирования Slang,
    :maxdepth: 4
    :caption: Язык программирования Slang
 
-   slang/builtin_functions
-   slang/builtin_constants
-   slang/builtin_types
-   slang/builtin_modules
+   slang/gettingstarted
+   slang/helloworld
+
+.. toctree::
+   :maxdepth: 4
+   :caption: Стандартная библиотека Slang
+
+   slangstd/builtin_functions
+   slangstd/builtin_constants
+   slangstd/builtin_types
+   slangstd/builtin_modules
 
 .. toctree::
    :maxdepth: 1
