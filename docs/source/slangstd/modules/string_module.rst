@@ -16,6 +16,10 @@
 
       Инициализирует строку заданным массивом символов.
 
+   .. method:: getSymbol(in integer pos) : integer
+
+      Возвращает символ из строки на позиции pos.
+
    .. method:: setSymbol(in integer pos, in character sym)
 
       Устанавливает в строке на позиции pos символ sym.
